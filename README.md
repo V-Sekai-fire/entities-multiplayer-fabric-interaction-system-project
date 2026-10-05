@@ -4,7 +4,7 @@ An engine test project for the fabric interaction system add-on, driven by a mou
 
 ## What it is for
 
-It loads the interaction system and the 3D canvas add-on into one scene, so laser, lasso and canvas interaction can be tried with either input.
+It enables three add-ons, the interaction system, the 3D canvas and the shader debug drawing add-on (`addons/s2h`), in one scene, so laser, lasso and canvas interaction can be tried with either input.
 
 ## Run it
 
@@ -12,4 +12,4 @@ Open `project.godot` in a double-precision engine editor and run the main scene.
 
 ## Licence
 
-The project root does not state a licence; each add-on carries its own MIT licence.
+The project root does not state a licence. `addons/interaction_system` and `addons/canvas_plane` carry MIT licences; `addons/s2h` states none.
