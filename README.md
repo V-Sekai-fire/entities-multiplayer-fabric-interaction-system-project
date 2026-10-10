@@ -12,4 +12,4 @@ Open `project.godot` in a double-precision engine editor and run the main scene.
 
 ## Licence
 
-The project root does not state a licence. `addons/interaction_system` and `addons/canvas_plane` carry MIT licences; `addons/s2h` states none.
+MIT. See [LICENSE](LICENSE).
